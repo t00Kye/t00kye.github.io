@@ -1,0 +1,9 @@
+# 忽略环境变量文件
+.env
+.secret
+
+# 忽略 Node.js 默认依赖
+node_modules/
+
+# 忽略 macOS 系统文件
+.DS_Store
